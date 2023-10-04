@@ -76,6 +76,12 @@
 
 ![Alt text](https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/5c918dc341d92f647d6f1665ed2714922d5e688c.png)
 
+4. Elige la instalación `Install Ubuntu`
+
+![alttext](https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/original/2X/7/7e92f38c56ca7b2fbb8323d51d6ee35457fe4fce.png)
+
+
+
 
 
 
