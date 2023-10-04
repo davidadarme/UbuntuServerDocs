@@ -22,7 +22,7 @@
 
 ![DescargaUbuntu](srcImages/image.png)
 
-2. Descarga la última versión de Rufus para Windows.
+2. [Descarga](https://github.com/pbatard/rufus/releases/download/v4.2/rufus-4.2.exe) la última versión de Rufus para Windows.
 
 ### Paso 3: Crear una unidad USB booteable con Rufus
 
@@ -58,32 +58,35 @@
 
 1. Una vez que Rufus haya terminado de crear la unidad USB booteable, retira la unidad USB de tu computadora.
 
-2. Reinicia tu computadora y configura la secuencia de arranque para arrancar desde la unidad USB. Puedes hacerlo generalmente presionando una tecla como `F2, F12, Delete o ALT` para Mac Pro durante el proceso de arranque y seleccionando la unidad USB como dispositivo de arranque.
+2. Reinicia tu computadora e inserta la USB booteable
+
+2. Configura la secuencia de arranque para arrancar desde la unidad USB. Puedes hacerlo generalmente presionando una tecla como `ESC, F2,F10, F12` para windows y `ALT` para Mac Pro durante el proceso de arranque y seleccionando la unidad USB como dispositivo de arranque.
 
 #### Paso 4.1: Configuración de la instalación de Ubuntu Server
 
-1. Cuando el instalador de Ubuntu Server se inicie, sigue las instrucciones en pantalla para configurar la instalación. Puedes seleccionar las opciones de idioma, teclado, zona horaria, etc.
+1. Cuando el instalador de Ubuntu Server se inicie, verás un mensaje así:
 
-2. Durante la instalación, se te pedirá que ingreses una contraseña para el usuario "root" (superusuario) y que configures un usuario y contraseña para el sistema.
+![Alt text](srcImages/17ee449b2bd7c530d2f996215407fca5b722dcb2.png)
+
+2. Elige el lenguaje que prefieras (Utilizar las teclas de desplazamiento)
+
+![Alt text](srcImages/e1d75e3584b6a3c23da39263fbf2f9ba6411de9a.png)
+
+3. Elija la distribución de teclado correcta (Normalmente viene predeterminado). Cuando se haya instalado Ubuntu Server, podrá probar y cambiar sus preferencias más fácilmente si es necesario
+
+![Alt text](https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/5c918dc341d92f647d6f1665ed2714922d5e688c.png)
 
 
 
 
 
 
+Durante la instalación, se te pedirá que ingreses una contraseña para el usuario "root" (superusuario) y que configures un usuario y contraseña para el sistema.
 
-
-
-
-
+, sigue las instrucciones en pantalla para configurar la instalación. Puedes seleccionar las opciones de idioma, teclado, zona horaria, etc.
 
 
 6. Una vez que la instalación haya terminado, retira la unidad USB y reinicia tu computadora. Ubuntu Server debería arrancar desde el disco duro.
-
-
-
-
-
 
 # Enlaces de referencia
 - https://rufus.ie/es/
